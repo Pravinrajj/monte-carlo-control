@@ -184,6 +184,7 @@ results(env, optimal_pi, goal_state=goal_state)
 ```
 ## OUTPUT:
 ![280755067-de865f54-3ef4-414b-91fa-b5872202152d](https://github.com/Pravinrajj/monte-carlo-control/assets/117917674/d24dcecd-72d6-49c9-afa2-f223c0ccfb48)
+<br>
 ![280755093-383f5977-817c-446f-ae43-cdabc5a8b8ec](https://github.com/Pravinrajj/monte-carlo-control/assets/117917674/339e770d-eaf3-4585-8f5a-1ae1ffc18156)
 
 ## RESULT:
